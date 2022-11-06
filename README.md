@@ -1,3 +1,2 @@
-
-| 👋 Hi    | 😸 Cat Aficionado | :pirate_flag: Builder Of Neat Things |
-|---------|--------------------|---------------------------------------|
+| 😸 Cat Aficionado | :pirate_flag: Builder Of Neat Things |
+|--------------------|---------------------------------------|
